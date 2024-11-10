@@ -1,5 +1,7 @@
+local lua_name = "luasense"
+
 common.get_username = function()
     return "SuckMyDickJapan"
 end
 
-require("luasense")
+require(lua_name)
